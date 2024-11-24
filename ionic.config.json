@@ -1,0 +1,7 @@
+{
+  "name": "jr-market",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
